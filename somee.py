@@ -10,3 +10,4 @@ num_houses_most_population = population_counts.max()
 #the results
 print("Population with the Most Houses:", most_houses_population)
 print("Number of Houses in the Most Populated Population:", num_houses_most_population)
+
